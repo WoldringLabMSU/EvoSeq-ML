@@ -11,9 +11,6 @@ Welcome to the EvoSeq-ML project! 🎉 This project leverages ancestral sequence
 - [Preprocessing and Ancestral Sequence Reconstruction](#preprocessing-and-ancestral-sequence-reconstruction)
 - [Protein Sequence Generation](#protein-sequence-generation)
 - [Protein Sequence Fine-Tuning](#protein-sequence-fine-tuning)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
